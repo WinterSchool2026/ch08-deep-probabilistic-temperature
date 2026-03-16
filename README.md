@@ -10,3 +10,4 @@ In this challenge, students will use ERA5 reanalysis data to develop deep learni
 - https://doi.org/10.1146/annurev-statistics-062713-085831
 - https://arxiv.org/abs/1612.01474
 - https://arxiv.org/abs/1506.02142
+- https://arxiv.org/pdf/1703.04977
