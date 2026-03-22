@@ -13,5 +13,4 @@ In this challenge, students will use ERA5 reanalysis data to develop deep learni
 - https://arxiv.org/pdf/1703.04977
 - https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html
 
-## Google Colab
-https://colab.research.google.com/drive/1f-y-6j8oGALOiLvYm-0ILQMD_02FkxYX?usp=sharing
+
